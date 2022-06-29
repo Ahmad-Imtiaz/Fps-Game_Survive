@@ -11,7 +11,7 @@ Character:
 1.	Main protagonist (Ridoy)
 2.	Family member (Wife+ daughter age of 6)
 3.	Ai Enemy 
-4.	Main boss
+4.	Mafia boss
 
 Environment:
 Four storied building 
