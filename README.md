@@ -18,7 +18,7 @@ Four storied building
 Pathway that leads to the building
 
 Level design:
-Game will start with car driving to reach the destination(building).
+
 Level 1 would be in ground floor with easy enemy (attack, shooting time, movement and character detection)
 Level 2 will be little hard (1st floor)
 Level 3 will be much harder (2nd floor)
