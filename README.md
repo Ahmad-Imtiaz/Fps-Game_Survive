@@ -1,10 +1,18 @@
 # Fps-Game_Survive
 An Fps game created for my Course project.
+
+
+
+
 COURSE NAME: MULTIMIDEA AUTHORING
+
+
+
+
 COURSE TEACHER: MD. SALAH UDDIN[Senior Lecturer, Diu]
 
 
-Survivor- Fps madness!
+TITLE : Survivor- Fps madness!
 
 PLOT: 
 Detective officer Ridoy’s family has been kidnapped by International Mafia. Their demand is to give them Top classified information about international money laundering. But Ridoy is Determined not to give up! He traced their phone call and found out the hideout! 
