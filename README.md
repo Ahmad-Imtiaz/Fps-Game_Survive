@@ -1,5 +1,9 @@
 # Fps-Game_Survive
 An Fps game created for my Course project.
+COURSE NAME: MULTIMIDEA AUTHORING
+COURSE TEACHER: MD. SALAH UDDIN[Senior Lecturer, Diu]
+
+
 Survivor- Fps madness!
 
 PLOT: 
